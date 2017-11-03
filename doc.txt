@@ -1,0 +1,46 @@
+a,a,a,a,a.13_20_8_0_0_1_0_24;-Pendidikan dokter
+-Ilmu Keperawatan
+-Farmasi
+-Radiologi
+-Ilmu Gizi
+-Teknik Mesin
+-Teknik Kimia
+-Teknik Fisika
+-Teknik Industri
+-Teknik Elektro
+-Teknik Komputer
+-Teknik Nuklir
+-Teknik Lingkungan
+-Teknik Sipil
+-Teknik Pertambangan
+-Teknik Arsitektur
+-Ilmu Tanah
+-Tata Kota
+-Ilmu Komputer
+-Sistem Komputer
+-Sistem Informasi
+-Teknik Informatika
+-Teknologi Informasi
+-Pendidikan Kimia
+-Pendidikan Fisika
+-Pendidikan Matematika
+-Desain Komunikasi Visual
+.
+a,a,a,a,a.35_0_19_22_30_23_0_0;-Ilmu Komunikasi
+-Hubungan Masyarakat
+-Hubungan Internasional
+-Ilmu Hukum
+-Ilmu Politik
+-Psikologi
+-Bahasa dan Sastra
+-Sastra Jepang
+-Sastra Arab
+-Sastra Jerman
+-Pendidikan Bahasa
+-Pendidikan Olahraga
+-Seni Rupa
+-Desain Interior
+
+.Arief,L,082216649xxx,Palembang,02-11-1999.62_54_32_41_1_2_14_59;-Pendidikan dokter-Ilmu Keperawatan-Farmasi-Radiologi-Ilmu Gizi-Teknik Kimia-Teknik Nuklir-Teknik Lingkungan-Teknik Pertambangan-Bahasa dan Sastra-Sastra Jepang-Sastra Arab-Sastra Jerman-Pendidikan Bahasa
+
+.

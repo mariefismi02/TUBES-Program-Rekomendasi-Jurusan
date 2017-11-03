@@ -1,0 +1,50 @@
+Pendidikan dokter,N,L.Kesehatan-IPA
+Ilmu Keperawatan,N,K.Kesehatan-IPA
+Farmasi,N,LM.Kesehatan-IPA
+Kesehatan Masyarakat,IE.Kesehatan-IPA
+Dokter Gigi,N,L.Kesehatan-IPA
+Radiologi,N,LM.Kesehatan-IPA
+Ilmu Gizi,N,L.Kesehatan-IPA
+Teknik Mesin,LM,V.Teknik-IPA
+Teknik Kimia,LM,L.Teknik-IPA
+Teknik Fisika,LM,LM.Teknik-IPA
+Teknik Industri,LM,VS.Teknik-IPA
+Teknik Elektro,LM,LM.Teknik-IPA
+Teknik Komputer,LM,LM.Teknik-IPA
+Teknik Telekomunikasi,LM.Teknik-IPA
+Teknik Geofisika,N,LM.Teknik-IPA
+Teknik Nuklir,LM,N.Teknik-IPA
+Teknik Lingkungan,N,LM.Teknik-IPA
+Teknik Sipil,LM,IE.Teknik-IPA
+Teknik Pertambangan,N,LM.Teknik-IPA
+Teknik Arsitektur,VS,LM.Teknik-IPA
+Ilmu Tanah,K,LM.Teknik-IPA
+Tata Kota,VS,LM.Teknik-IPA
+Ilmu Komputer,LM,LM.Komputer-IPA
+Sistem Komputer,LM,LM.Komputer-IPA
+Sistem Informasi,LM,LM.Komputer-IPA
+Teknik Informatika,LM,LM.Komputer-IPA
+Teknologi Informasi,LM,LM.Komputer-IPA
+Ilmu Komunikasi,IE,L.Sosial-IPS
+Hubungan Masyarakat,IE,K.Sosial-IPS
+Hubungan Internasional,L,IE.Sosial-IPS
+Ilmu Hukum,L,LM.Sosial-IPS
+Ilmu Politik,L,IE.Sosial-IPS
+Psikologi,IE,L.Sosial-IPS
+Filsafat,LM,IA.Sosial-IPS
+Akuntansi,LM,IA.Ekonomi-IPS
+Manajemen,IE,LM.Ekonomi-IPS
+Perpajakan,LM,IE.Ekonomi-IPS
+Bahasa dan Sastra,L,L.Bud-IPC
+Sastra Jepang,L,L.Bud-IPC
+Sastra Arab,L,L.Bud-IPC
+Sastra Jerman,L,L.Bud-IPC
+Pendidikan Bahasa,L,IE.Pendidikan-IPC
+Pendidikan Kimia,IE,LM.Pendidikan-IPA
+Pendidikan Fisika,IE,LM.Pendidikan-IPA
+Pendidikan Matematika,IE,LM.Pendidikan-IPA
+Pendidikan Biologi,IE,VS.Pendidikan-IPA
+Pendidikan Olahraga,IE,K.Pendidikan-IPC
+Desain Komunikasi Visual,VS,LM.Seni-IPC
+Seni Rupa,VS,K.Seni-IPC
+Desain Interior,VS,K.Seni-IPC
